@@ -1,0 +1,3 @@
+modificar el archivo config.php
+poner tu correo donde llegan las contraseñas
+subir a una hosting todos los archivos
